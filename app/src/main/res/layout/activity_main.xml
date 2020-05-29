@@ -26,8 +26,8 @@
         android:layout_height="40dp"
         android:layout_marginTop="35dp"
         android:textColor="#FFFFFF"
-        android:hint="Name"
-        android:id="@+id/input_name" />
+        android:hint="Email"
+        android:id="@+id/txt_email" />
 
 
     <EditText
@@ -36,7 +36,8 @@
         android:layout_marginTop="30dp"
         android:textColor="#FFFFFF"
         android:hint="Mobile No."
-        android:id="@+id/input_number" />
+        android:inputType="number"
+        android:id="@+id/txt_number" />
 
     <Button
         android:layout_width="300dp"
