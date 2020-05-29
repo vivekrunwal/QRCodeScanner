@@ -8,7 +8,7 @@ User data is stored in [Firebase Database](https://en.wikipedia.org/wiki/Firebas
 
 Android min SDK version 16
 
-[Android 4.0 Ice Cream Sandwich](https://en.wikipedia.org/wiki/Android_Ice_Cream_Sandwich)  (works on almost 100% of Android Devices)
+[Android 4.0 Ice Cream Sandwich](https://en.wikipedia.org/wiki/Android_Ice_Cream_Sandwich) and above Android Versions  (works on almost 100% of Android Devices)
 
 
 # ScreenShots
