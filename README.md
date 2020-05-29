@@ -1,6 +1,6 @@
 # QRCodeScanner
 
-This app takes user in the form their email and Mobile Number.
+This app takes user input in the form of their Email and Mobile Number.
 
 User data is stored in [Firebase Database](https://en.wikipedia.org/wiki/Firebase)
 
